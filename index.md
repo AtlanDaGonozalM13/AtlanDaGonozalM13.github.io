@@ -13,3 +13,5 @@ Ein berühmtes Zitat von Atlan ist:
 
 > Seit dem Urknall des Universums scheint tatsächlich jede Winzigkeit mit allen anderen Winzigkeiten zusammenzuhängen, und das über unsere Galaxis hinaus!
 
+<img src="https://www.perrypedia.de/mediawiki/images/3/3d/Atlan.jpg"/>
+
