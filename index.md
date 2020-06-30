@@ -9,3 +9,7 @@ Atlan da Gonozal (bedeutet ‚Atlan aus dem Hause/aus dem Geschlecht derer von G
 * Atlan verbringt einen Tiefschlaf auf der Erde
 * Nach anfänglichen Missverständnissen kommt es zur Einigung und Freundschaft mit Perry Rhodan.
 
+Ein berühmtes Zitat von Atlan ist:
+
+> Seit dem Urknall des Universums scheint tatsächlich jede Winzigkeit mit allen anderen Winzigkeiten zusammenzuhängen, und das über unsere Galaxis hinaus!
+
